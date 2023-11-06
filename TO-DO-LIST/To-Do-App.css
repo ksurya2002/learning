@@ -1,0 +1,26 @@
+.border{
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+    /* text-align: center; */
+    margin-left: 500px;
+    background-color: rgb(144, 91, 194);
+    overflow: hidden;
+}
+button{
+    background-color: rgba(132, 113, 255, 0.607);
+}
+button:hover{
+    background-color: blanchedalmond;
+}
+.mylist{
+    
+    width: 200px;
+    border: 5px ;
+    margin-left: 120px;
+    /* overflow-y: scroll; */
+
+}
+.center{
+    text-align: center;
+}
